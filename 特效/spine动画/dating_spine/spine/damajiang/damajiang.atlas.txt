@@ -1,0 +1,34 @@
+
+damajiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_btn_3
+  rotate: false
+  xy: 2, 86
+  size: 390, 412
+  orig: 390, 412
+  offset: 0, 0
+  index: -1
+hall_icon_3_1
+  rotate: true
+  xy: 394, 106
+  size: 162, 190
+  orig: 162, 190
+  offset: 0, 0
+  index: -1
+hall_icon_3_2
+  rotate: false
+  xy: 394, 270
+  size: 202, 228
+  orig: 202, 228
+  offset: 0, 0
+  index: -1
+hall_imgf_3
+  rotate: false
+  xy: 2, 2
+  size: 222, 82
+  orig: 222, 82
+  offset: 0, 0
+  index: -1

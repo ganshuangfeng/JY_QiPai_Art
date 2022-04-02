@@ -1,0 +1,19 @@
+info face="Microsoft YaHei" size=36 bold=1 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=48 base=38 scaleW=184 scaleH=184 pages=1 packed=0
+page id=0 file="match_waiting_countdown_word.png"
+chars count=13
+char id=20154  x=93    y=2     width=43    height=43    xoffset=0     yoffset=1     xadvance=36    page=0  chnl=0  letter="人"
+char id=20313  x=138   y=2     width=43    height=43    xoffset=0     yoffset=1     xadvance=36    page=0  chnl=0  letter="余"
+char id=20498  x=137   y=48    width=42    height=43    xoffset=1     yoffset=1     xadvance=36    page=0  chnl=0  letter="倒"
+char id=20917  x=90    y=93    width=44    height=42    xoffset=0     yoffset=2     xadvance=36    page=0  chnl=0  letter="况"
+char id=21097  x=2     y=93    width=42    height=43    xoffset=0     yoffset=1     xadvance=36    page=0  chnl=0  letter="剩"
+char id=24320  x=2     y=138   width=43    height=41    xoffset=1     yoffset=3     xadvance=36    page=0  chnl=0  letter="开"
+char id=26032  x=2     y=2     width=44    height=44    xoffset=0     yoffset=-0    xadvance=36    page=0  chnl=0  letter="新"
+char id=26102  x=46    y=93    width=42    height=43    xoffset=2     yoffset=-0    xadvance=36    page=0  chnl=0  letter="时"
+char id=26368  x=136   y=93    width=43    height=42    xoffset=1     yoffset=2     xadvance=36    page=0  chnl=0  letter="最"
+char id=26700  x=2     y=48    width=43    height=43    xoffset=1     yoffset=1     xadvance=36    page=0  chnl=0  letter="桌"
+char id=28385  x=47    y=48    width=43    height=43    xoffset=0     yoffset=1     xadvance=36    page=0  chnl=0  letter="满"
+char id=35745  x=92    y=48    width=43    height=43    xoffset=1     yoffset=1     xadvance=36    page=0  chnl=0  letter="计"
+char id=36187  x=48    y=2     width=43    height=44    xoffset=1     yoffset=-0    xadvance=36    page=0  chnl=0  letter="赛"
+char id=32 	   x=73    y=1     width=0     height=0     xoffset=8     yoffset=50    xadvance=14    page=0  chnl=0 letter="space"
+kernings count=0

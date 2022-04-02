@@ -1,0 +1,97 @@
+
+doudizhu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 650, 657
+  size: 130, 153
+  orig: 130, 153
+  offset: 0, 0
+  index: -1
+glow-2
+  rotate: false
+  xy: 340, 556
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 650, 623
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+hall_btn_2
+  rotate: false
+  xy: 2, 596
+  size: 390, 412
+  orig: 390, 412
+  offset: 0, 0
+  index: -1
+hall_icon_2_1
+  rotate: false
+  xy: 2, 398
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+hall_icon_2_2
+  rotate: false
+  xy: 782, 680
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+hall_icon_2_3
+  rotate: false
+  xy: 258, 284
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+hall_icon_2_4
+  rotate: false
+  xy: 394, 812
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+hall_icon_2_5
+  rotate: false
+  xy: 2, 200
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+hall_icon_2_6
+  rotate: false
+  xy: 394, 614
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+hall_icon_2_7
+  rotate: false
+  xy: 650, 812
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+hall_icon_2_8
+  rotate: false
+  xy: 2, 2
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+hall_imgf_2
+  rotate: true
+  xy: 258, 376
+  size: 218, 80
+  orig: 218, 80
+  offset: 0, 0
+  index: -1

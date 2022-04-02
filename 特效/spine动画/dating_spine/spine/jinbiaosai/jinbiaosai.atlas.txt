@@ -1,0 +1,137 @@
+
+jinbiaosai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_btn_1
+  rotate: false
+  xy: 2, 2
+  size: 460, 494
+  orig: 460, 494
+  offset: 0, 0
+  index: -1
+hall_icon_1_2
+  rotate: false
+  xy: 464, 382
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+hall_icon_1_4
+  rotate: false
+  xy: 464, 248
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+hall_icon_1_6
+  rotate: false
+  xy: 464, 460
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+hall_icon_1_7
+  rotate: false
+  xy: 464, 324
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+hall_icon_1_8
+  rotate: false
+  xy: 464, 272
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+
+jinbiaosai2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_icon_1_1
+  rotate: false
+  xy: 2, 209
+  size: 248, 294
+  orig: 248, 294
+  offset: 0, 0
+  index: -1
+jiangbei
+  rotate: false
+  xy: 2, 2
+  size: 171, 205
+  orig: 171, 205
+  offset: 0, 0
+  index: -1
+jinbiaosai_00000
+  rotate: false
+  xy: 175, 21
+  size: 151, 186
+  orig: 151, 186
+  offset: 0, 0
+  index: -1
+jinbiaosai_00002
+  rotate: false
+  xy: 328, 59
+  size: 151, 186
+  orig: 151, 186
+  offset: 0, 0
+  index: -1
+xiangguang_181
+  rotate: false
+  xy: 252, 247
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+jinbiaosai3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_icon_1_3
+  rotate: true
+  xy: 286, 414
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+hall_icon_1_5
+  rotate: false
+  xy: 155, 98
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+hall_imgf_1
+  rotate: false
+  xy: 2, 378
+  size: 282, 100
+  orig: 282, 100
+  offset: 0, 0
+  index: -1
+jinbiaosai_00004
+  rotate: false
+  xy: 2, 190
+  size: 151, 186
+  orig: 151, 186
+  offset: 0, 0
+  index: -1
+jinbiaosai_00006
+  rotate: false
+  xy: 2, 2
+  size: 151, 186
+  orig: 151, 186
+  offset: 0, 0
+  index: -1
+jinbiaosai_00008
+  rotate: false
+  xy: 155, 190
+  size: 151, 186
+  orig: 151, 186
+  offset: 0, 0
+  index: -1

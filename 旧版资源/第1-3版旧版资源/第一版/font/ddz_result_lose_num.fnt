@@ -1,0 +1,16 @@
+info face="迷你简粗圆" size=44 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=52 base=42 scaleW=121 scaleH=169 pages=1 packed=0
+page id=0 file="ddz_result_lose_num.png"
+chars count=12
+char id=32     x=78    y=85    width=0     height=0     xoffset=0     yoffset=42    xadvance=12    page=0  chnl=0  letter="space"
+char id=45     x=48    y=85    width=29    height=14    xoffset=2     yoffset=23    xadvance=26    page=0  chnl=0  letter="-"
+char id=48     x=32    y=1     width=29    height=41    xoffset=1     yoffset=4     xadvance=25    page=0  chnl=0  letter="0"
+char id=49     x=29    y=85    width=18    height=40    xoffset=1     yoffset=5     xadvance=16    page=0  chnl=0  letter="1"
+char id=50     x=88    y=43    width=27    height=41    xoffset=2     yoffset=4     xadvance=25    page=0  chnl=0  letter="2"
+char id=51     x=62    y=1     width=28    height=41    xoffset=1     yoffset=4     xadvance=25    page=0  chnl=0  letter="3"
+char id=52     x=1     y=1     width=30    height=41    xoffset=1     yoffset=4     xadvance=25    page=0  chnl=0  letter="4"
+char id=53     x=1     y=85    width=27    height=41    xoffset=1     yoffset=4     xadvance=25    page=0  chnl=0  letter="5"
+char id=54     x=91    y=1     width=28    height=41    xoffset=2     yoffset=4     xadvance=25    page=0  chnl=0  letter="6"
+char id=55     x=1     y=43    width=28    height=41    xoffset=1     yoffset=4     xadvance=24    page=0  chnl=0  letter="7"
+char id=56     x=30    y=43    width=28    height=41    xoffset=2     yoffset=4     xadvance=25    page=0  chnl=0  letter="8"
+char id=57     x=59    y=43    width=28    height=41    xoffset=2     yoffset=4     xadvance=25    page=0  chnl=0  letter="9"

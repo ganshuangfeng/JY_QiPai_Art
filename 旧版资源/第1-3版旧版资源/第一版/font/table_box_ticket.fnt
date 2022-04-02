@@ -1,0 +1,16 @@
+info face="迷你简粗圆" size=64 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=75 base=61 scaleW=162 scaleH=214 pages=1 packed=0
+page id=0 file="table_box_ticket.png"
+chars count=11
+char id=48     x=85    y=2     width=36    height=51    xoffset=2     yoffset=12    xadvance=37    page=0  chnl=0  letter="0"
+char id=49     x=75    y=108   width=20    height=50    xoffset=2     yoffset=13    xadvance=24    page=0  chnl=0  letter="1"
+char id=50     x=39    y=55    width=34    height=51    xoffset=3     yoffset=12    xadvance=37    page=0  chnl=0  letter="2"
+char id=51     x=75    y=55    width=34    height=51    xoffset=2     yoffset=12    xadvance=37    page=0  chnl=0  letter="3"
+char id=52     x=45    y=2     width=38    height=51    xoffset=1     yoffset=12    xadvance=37    page=0  chnl=0  letter="4"
+char id=53     x=111   y=55    width=34    height=51    xoffset=2     yoffset=12    xadvance=37    page=0  chnl=0  letter="5"
+char id=54     x=123   y=2     width=35    height=51    xoffset=2     yoffset=12    xadvance=37    page=0  chnl=0  letter="6"
+char id=55     x=38    y=108   width=35    height=50    xoffset=1     yoffset=13    xadvance=34    page=0  chnl=0  letter="7"
+char id=56     x=2     y=108   width=34    height=51    xoffset=3     yoffset=12    xadvance=37    page=0  chnl=0  letter="8"
+char id=57     x=2     y=55    width=35    height=51    xoffset=2     yoffset=12    xadvance=37    page=0  chnl=0  letter="9"
+char id=88     x=2     y=2     width=41    height=51    xoffset=0     yoffset=12    xadvance=39    page=0  chnl=0  letter="X"
+kernings count=0

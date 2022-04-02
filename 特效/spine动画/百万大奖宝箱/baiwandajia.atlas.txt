@@ -1,0 +1,48 @@
+
+baiwandajia.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+million_icon_bion
+  rotate: false
+  xy: 628, 756
+  size: 226, 73
+  orig: 226, 73
+  offset: 0, 0
+  index: -1
+million_icon_box
+  rotate: false
+  xy: 628, 831
+  size: 251, 137
+  orig: 251, 137
+  offset: 0, 0
+  index: -1
+million_icon_box1
+  rotate: false
+  xy: 2, 156
+  size: 229, 186
+  orig: 229, 186
+  offset: 0, 0
+  index: -1
+million_icon_guangmang
+  rotate: false
+  xy: 2, 344
+  size: 624, 624
+  orig: 624, 624
+  offset: 0, 0
+  index: -1
+million_icon_msy
+  rotate: true
+  xy: 2, 2
+  size: 152, 211
+  orig: 152, 211
+  offset: 0, 0
+  index: -1
+million_icon_msz
+  rotate: true
+  xy: 233, 190
+  size: 152, 211
+  orig: 152, 211
+  offset: 0, 0
+  index: -1
